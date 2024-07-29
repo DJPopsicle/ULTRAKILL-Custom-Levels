@@ -1,3 +1,5 @@
+# -- 1ST PLACE IN SPITE JAM 2: THE PAST --
+
 ## Version 1.2
 - Tweaked Heresy encounter
 - Tweaked Lust encounter
